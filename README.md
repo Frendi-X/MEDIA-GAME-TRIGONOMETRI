@@ -100,7 +100,7 @@ Pin LED mengikuti urutan tombol jawaban pada pin analog (A0 - A15 dan A5 - A12).
    - Jika **salah**:
      - LED jawaban salah menyala.
      - LED salah menyala.
-     - Servo bergerak ke 90° sebagai hukuman.
+     - Servo bergerak ke 90° sebagai petunjuk.
      - Sistem menunggu hingga tombol jawaban **benar** ditekan untuk mengembalikan servo ke posisi semula.
 3. **Semua LED dimatikan**, siap menerima soal berikutnya.
 
