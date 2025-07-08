@@ -1,6 +1,7 @@
 # 📐 Media Game Trigonometri Interaktif - Arduino Project
 
-https://github.com/Frendi-X/MEDIA-GAME-TRIGONOMETRI/blob/main/MEDIA%20GAME%20TRIGONOMETRI.png
+
+![alt text](https://github.com/Frendi-X/MEDIA-GAME-TRIGONOMETRI/blob/main/MEDIA%20GAME%20TRIGONOMETRI.png?raw=true)
 
 Proyek ini merupakan media pembelajaran interaktif berbasis Arduino yang digunakan untuk menguji pemahaman konsep trigonometri siswa melalui game fisik berbentuk kuis. Program ini menggunakan tombol sebagai input jawaban, LED sebagai indikator, DFPlayer Mini untuk audio instruksi dan feedback, serta servo motor sebagai efek mekanis saat jawaban salah.
 
