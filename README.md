@@ -141,5 +141,5 @@ Proyek ini bertujuan membantu siswa memahami nilai fungsi trigonometri dalam ben
 ---
 
 ## 👨‍💻 Author
-Dikembangkan oleh: [Reog Robotic & Robotech Electronics]  
+Dikembangkan oleh: Imam Sa'id Nurfrendi [Reog Robotic & Robotech Electronics]  
 Untuk: Media Pembelajaran Interaktif Trigonometri
